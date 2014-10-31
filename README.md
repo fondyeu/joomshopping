@@ -34,5 +34,5 @@ Merchant Password: пароль полученный от системы Oplata
 ![Скриншот][2]
 ----
 
-[2]: https://raw.githubusercontent.com/oplatacom/joomshopping/master/oplata-main.png
-[1]: https://raw.githubusercontent.com/oplatacom/joomshopping/master/oplata-configuration.png
+[1]: https://raw.githubusercontent.com/oplatacom/joomshopping/master/oplata-main.png
+[2]: https://raw.githubusercontent.com/oplatacom/joomshopping/master/oplata-configuration.png
